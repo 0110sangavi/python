@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CvYTMY0EK9H719TgZIbKEMcZQADC8DptgZweFMbXzzPOgsf4moJypsJua5VTJGOx3ShDXY/rEm2niLBGriJUTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\40020500\\source\\repos\\WpfAppdemo\\WpfAppdemo\\WpfAppdemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\40020500\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
+    "C:\\Users\\40020500\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\40020500\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

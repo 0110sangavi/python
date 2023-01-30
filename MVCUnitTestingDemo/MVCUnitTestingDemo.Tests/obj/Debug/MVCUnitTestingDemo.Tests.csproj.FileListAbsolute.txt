@@ -1,0 +1,2 @@
+C:\Users\40020500\source\repos\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\obj\Debug\MVCUnitTestingDemo.Tests.csproj.AssemblyReference.cache
+C:\Users\40020500\source\repos\MVCUnitTestingDemo\MVCUnitTestingDemo.Tests\obj\Debug\MVCUnitTestingDemo.Tests.csproj.CoreCompileInputs.cache

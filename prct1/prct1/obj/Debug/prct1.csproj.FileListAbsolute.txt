@@ -1,0 +1,8 @@
+C:\Users\40020500\source\repos\prct1\prct1\bin\Debug\ProjectTemplates\CSharp\1033\prct1.zip
+C:\Users\40020500\source\repos\prct1\prct1\obj\Debug\prct1.csproj.AssemblyReference.cache
+C:\Users\40020500\source\repos\prct1\prct1\obj\Debug\_EmptyResource.resources
+C:\Users\40020500\source\repos\prct1\prct1\obj\Debug\prct1.csproj.GenerateResource.cache
+C:\Users\40020500\source\repos\prct1\prct1\obj\Debug\prct1.csproj.CoreCompileInputs.cache
+C:\Users\40020500\source\repos\prct1\prct1\obj\Debug\CSharp\1033\prct1.zip
+C:\Users\40020500\source\repos\prct1\prct1\obj\Debug\prct1.dll
+C:\Users\40020500\source\repos\prct1\prct1\obj\Debug\prct1.pdb

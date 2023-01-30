@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MVCDataAccessByLayers", "MVCDataAccessByLayers\MVCDataAccessByLayers.vbproj", "{EB0656D6-CE73-4E33-88D3-6DF04AB4B031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{7327FF57-5011-4F2D-901D-7CAED03CA1AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB0656D6-CE73-4E33-88D3-6DF04AB4B031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB0656D6-CE73-4E33-88D3-6DF04AB4B031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB0656D6-CE73-4E33-88D3-6DF04AB4B031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB0656D6-CE73-4E33-88D3-6DF04AB4B031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7327FF57-5011-4F2D-901D-7CAED03CA1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7327FF57-5011-4F2D-901D-7CAED03CA1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7327FF57-5011-4F2D-901D-7CAED03CA1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7327FF57-5011-4F2D-901D-7CAED03CA1AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DA3C706-5583-4CFF-8F48-771A28C3365E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,42 @@
+﻿<Window x:Class="new_wpf.View.Window1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        xmlns:d="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:i11="clr-namespace:Microsoft.VisualBasic;assembly=Microsoft.VisualBasic.Core"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="110px" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <ListBox Name="employeeListBox" ItemsSource="{Binding empList}" Grid.Row="0" SelectedItem="{Binding SelectedIndex}">
+            <i11:Interaction.Triggers>
+                <d:EventTrigger EventName="SelectionChanged">
+                    <i:InvokeCommandAction Command="{Binding MyCommand}" CommandParameter="{Binding ElementName=employeeListBox, Path=SelectedValue}">
+                    </i:InvokeCommandAction>
+                </d:EventTrigger>
+            </i11:Interaction.Triggers>
+        </ListBox>
+        <Grid Grid.Row="1" DataContext="{Binding SelectedEmployee}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="80" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="0">First Name</Label>
+            <Label Grid.Row="1" Grid.Column="0">Last Name</Label>
+            <Label Grid.Row="2" Grid.Column="0">Title</Label>
+            <Label Grid.Row="3" Grid.Column="0">Department</Label>
+
+            <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding Path=FirstName, Mode=TwoWay}" />
+            <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding Path=LastName, Mode=TwoWay}" />
+            <TextBox Grid.Row="2" Grid.Column="1" Text="{Binding Path=Title, Mode=TwoWay}" />
+            <TextBox Grid.Row="3" Grid.Column="1" Text="{Binding Path=Department, Mode=TwoWay}" />
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,6 @@
+C:\Users\40020500\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\netcoreapp3.1\LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\40020500\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\40020500\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\netcoreapp3.1\Window1.g.cs
+C:\Users\40020500\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\40020500\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\netcoreapp3.1\LibraryManagementSystem_MarkupCompile.cache
+C:\Users\40020500\source\repos\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\netcoreapp3.1\LibraryManagementSystem_MarkupCompile.lref

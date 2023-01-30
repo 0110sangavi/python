@@ -1,0 +1,5 @@
+C:\Users\40020500\source\repos\calculator\calculator\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\40020500\source\repos\calculator\calculator\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\40020500\source\repos\calculator\calculator\obj\Debug\netcoreapp3.0\calculator_MarkupCompile.cache
+C:\Users\40020500\source\repos\calculator\calculator\obj\Debug\netcoreapp3.0\calculator_MarkupCompile.lref
+C:\Users\40020500\source\repos\calculator\calculator\obj\Debug\netcoreapp3.0\calculator.csproj.AssemblyReference.cache

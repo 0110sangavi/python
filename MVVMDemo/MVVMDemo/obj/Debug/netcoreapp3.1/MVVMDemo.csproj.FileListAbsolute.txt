@@ -1,0 +1,5 @@
+C:\Users\40020500\source\repos\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\MVVMDemo.csproj.AssemblyReference.cache
+C:\Users\40020500\source\repos\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\Views\UserControl1.g.cs
+C:\Users\40020500\source\repos\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\40020500\source\repos\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\MVVMDemo_MarkupCompile.cache
+C:\Users\40020500\source\repos\MVVMDemo\MVVMDemo\obj\Debug\netcoreapp3.1\MVVMDemo_MarkupCompile.lref

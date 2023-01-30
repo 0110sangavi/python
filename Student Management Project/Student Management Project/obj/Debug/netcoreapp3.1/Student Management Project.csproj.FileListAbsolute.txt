@@ -1,0 +1,20 @@
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\bin\Debug\netcoreapp3.1\Student Management Project.exe
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\bin\Debug\netcoreapp3.1\Student Management Project.deps.json
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\bin\Debug\netcoreapp3.1\Student Management Project.runtimeconfig.json
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\bin\Debug\netcoreapp3.1\Student Management Project.runtimeconfig.dev.json
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\bin\Debug\netcoreapp3.1\Student Management Project.dll
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\bin\Debug\netcoreapp3.1\Student Management Project.pdb
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\obj\Debug\netcoreapp3.1\Student Management Project.csproj.AssemblyReference.cache
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\obj\Debug\netcoreapp3.1\Student Management Project_MarkupCompile.cache
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\obj\Debug\netcoreapp3.1\Student Management Project_MarkupCompile.lref
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\obj\Debug\netcoreapp3.1\Student Management Project.g.resources
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\obj\Debug\netcoreapp3.1\Student Management Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\obj\Debug\netcoreapp3.1\Student Management Project.AssemblyInfoInputs.cache
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\obj\Debug\netcoreapp3.1\Student Management Project.AssemblyInfo.cs
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\obj\Debug\netcoreapp3.1\Student Management Project.csproj.CoreCompileInputs.cache
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\obj\Debug\netcoreapp3.1\Student Management Project.dll
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\obj\Debug\netcoreapp3.1\Student Management Project.pdb
+C:\Users\40020500\source\repos\Student Management Project\Student Management Project\obj\Debug\netcoreapp3.1\Student Management Project.genruntimeconfig.cache

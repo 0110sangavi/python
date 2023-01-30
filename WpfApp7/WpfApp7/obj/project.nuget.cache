@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "JoIAZ1SvdDBmXcJADfKitnYT20BuzO0ntnDyRVbt6EI8muUgVwl1iNjxnn/xbnvcm6+mk9osYoCHVG4ZR480Nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\40020500\\source\\repos\\WpfApp7\\WpfApp7\\WpfApp7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\40020500\\.nuget\\packages\\dotnetprojects.wpftoolkit.datavisualization\\6.1.94\\dotnetprojects.wpftoolkit.datavisualization.6.1.94.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'DotNetProjects.WpfToolkit.DataVisualization 6.1.94' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "DotNetProjects.WpfToolkit.DataVisualization",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

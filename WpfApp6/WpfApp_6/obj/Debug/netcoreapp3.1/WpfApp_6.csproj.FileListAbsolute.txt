@@ -1,0 +1,5 @@
+C:\Users\40020500\source\repos\WpfApp6\WpfApp_6\obj\Debug\netcoreapp3.1\WpfApp_6.csproj.AssemblyReference.cache
+C:\Users\40020500\source\repos\WpfApp6\WpfApp_6\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\40020500\source\repos\WpfApp6\WpfApp_6\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\40020500\source\repos\WpfApp6\WpfApp_6\obj\Debug\netcoreapp3.1\WpfApp_6_MarkupCompile.cache
+C:\Users\40020500\source\repos\WpfApp6\WpfApp_6\obj\Debug\netcoreapp3.1\WpfApp_6_MarkupCompile.lref

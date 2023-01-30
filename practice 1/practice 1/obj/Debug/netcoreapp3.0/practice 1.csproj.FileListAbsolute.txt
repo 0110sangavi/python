@@ -1,0 +1,20 @@
+C:\Users\40020500\source\repos\practice 1\practice 1\bin\Debug\netcoreapp3.0\practice 1.exe
+C:\Users\40020500\source\repos\practice 1\practice 1\bin\Debug\netcoreapp3.0\practice 1.deps.json
+C:\Users\40020500\source\repos\practice 1\practice 1\bin\Debug\netcoreapp3.0\practice 1.runtimeconfig.json
+C:\Users\40020500\source\repos\practice 1\practice 1\bin\Debug\netcoreapp3.0\practice 1.runtimeconfig.dev.json
+C:\Users\40020500\source\repos\practice 1\practice 1\bin\Debug\netcoreapp3.0\practice 1.dll
+C:\Users\40020500\source\repos\practice 1\practice 1\bin\Debug\netcoreapp3.0\practice 1.pdb
+C:\Users\40020500\source\repos\practice 1\practice 1\obj\Debug\netcoreapp3.0\practice 1.csproj.AssemblyReference.cache
+C:\Users\40020500\source\repos\practice 1\practice 1\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\40020500\source\repos\practice 1\practice 1\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\40020500\source\repos\practice 1\practice 1\obj\Debug\netcoreapp3.0\practice 1_MarkupCompile.cache
+C:\Users\40020500\source\repos\practice 1\practice 1\obj\Debug\netcoreapp3.0\practice 1_MarkupCompile.lref
+C:\Users\40020500\source\repos\practice 1\practice 1\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\40020500\source\repos\practice 1\practice 1\obj\Debug\netcoreapp3.0\practice 1.g.resources
+C:\Users\40020500\source\repos\practice 1\practice 1\obj\Debug\netcoreapp3.0\practice 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40020500\source\repos\practice 1\practice 1\obj\Debug\netcoreapp3.0\practice 1.AssemblyInfoInputs.cache
+C:\Users\40020500\source\repos\practice 1\practice 1\obj\Debug\netcoreapp3.0\practice 1.AssemblyInfo.cs
+C:\Users\40020500\source\repos\practice 1\practice 1\obj\Debug\netcoreapp3.0\practice 1.csproj.CoreCompileInputs.cache
+C:\Users\40020500\source\repos\practice 1\practice 1\obj\Debug\netcoreapp3.0\practice 1.dll
+C:\Users\40020500\source\repos\practice 1\practice 1\obj\Debug\netcoreapp3.0\practice 1.pdb
+C:\Users\40020500\source\repos\practice 1\practice 1\obj\Debug\netcoreapp3.0\practice 1.genruntimeconfig.cache

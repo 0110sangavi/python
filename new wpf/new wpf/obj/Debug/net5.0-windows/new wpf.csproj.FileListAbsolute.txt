@@ -1,0 +1,5 @@
+C:\Users\40020500\source\repos\new wpf\new wpf\obj\Debug\net5.0-windows\new wpf.csproj.AssemblyReference.cache
+C:\Users\40020500\source\repos\new wpf\new wpf\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\40020500\source\repos\new wpf\new wpf\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\40020500\source\repos\new wpf\new wpf\obj\Debug\net5.0-windows\new wpf_MarkupCompile.cache
+C:\Users\40020500\source\repos\new wpf\new wpf\obj\Debug\net5.0-windows\new wpf_MarkupCompile.lref
